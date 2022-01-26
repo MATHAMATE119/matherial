@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <title>Моя first страница</title>
+</head>
+<body>
+  <h1>Тут мой загаловок</h1>
+</body>
+</html>
+
+takaya slojnaya eta razmetka 
+LaTeX kruche!
